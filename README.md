@@ -1,2 +1,2 @@
 # ARRD
- Script to genereate Abstract and Random Relational Databases to practice in PowerBI
+ Script to genereate Abstract and Random Relational Databases
